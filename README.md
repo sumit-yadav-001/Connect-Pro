@@ -2,7 +2,7 @@
 
 Connect Pro is a frontend-first video conferencing app built with React, ZegoCloud, and Tailwind CSS, offering real-time meetings, chat, and screen sharing directly in the browser.
 
-## Features
+# Features -
 
 ✅ Fully frontend-based, no backend required
 
